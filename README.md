@@ -1,12 +1,30 @@
-# React + Vite
+# Keerat's Portfolio Room — Full Stack Plan
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## Tools
+- React + Vite
+- Spline (exported as React component)
+- Later: Node.js backend
 
-Currently, two official plugins are available:
+## Core Concept
+A dreamy, personal room where each object represents a part of me — personality, skills, or background.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Key Interactive Elements
+1. Diary – opens overlay notebook with:
+   - About Me
+   - Skills + Achievements
+   - Projects
+   - Coursework
+   - Experience
+   - Contact Me
+2. Elephant plushie "Elly" – chatbot/helper
+3. Sticky Notes – my planning style
+4. Sunflower – optimism
+5. Candy Jar – fortune-cookie-style flex quotes
+6. Rain – dreamy, cozy
+7. Laptop – `print("hello, world")` coding intro
 
-## Expanding the ESLint configuration
+... and so on
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Current Stage
+- React app created
+- Spline scene ready
